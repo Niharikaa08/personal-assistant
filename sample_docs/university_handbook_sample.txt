@@ -1,0 +1,13 @@
+UNIVERSITY ACADEMIC HANDBOOK & CAPSTONE GUIDELINES (2026)
+
+1. ATTENDANCE POLICY
+All undergraduate engineering students must maintain a minimum attendance threshold of 75% in both theory and laboratory courses to be eligible for end-semester examinations. Medical condonation up to 10% requires approval from the Dean of Academics within 7 days of absence.
+
+2. FINAL YEAR CAPSTONE PROJECT EVALUATION
+The final-year engineering capstone project carries 12 credits and is evaluated across three milestones:
+- Synopsis & Architecture Review (20%): Requires formal approval from the assigned Faculty Advisor.
+- Mid-Semester Live Demonstration (30%): Assessed on system architecture, algorithmic novelty, and fault tolerance.
+- Final Thesis & Viva-Voce Defense (50%): Evaluated by an external examiner panel.
+
+3. ACADEMIC INTEGRITY
+All software implementations must include reproducible setup instructions, automated unit tests, and clear attribution of third-party libraries.
